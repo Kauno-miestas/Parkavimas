@@ -1,0 +1,133 @@
+id,Title,Content,atsiskaitymo_punktai_0_info_punktas,_atsiskaitymo_punktai_1_info_punktas,atsiskaitymo_punktai_2_info_punktas,atsiskaitymo_punktai_3_info_punktas,atsiskaitymo_punktai_4_info_punktas
+218,"Mokėjimas išmaniųjų telefonų programėle uniPark","Parsisiųskite ir įdiekite nemokamą mobiliojo telefono programėlę ir sekite instrukcijas.
+<p style=""text-align: left;""><a class=""button"" href=""https://www.youtube.com/watch?v=ZaIxLNKX11U"" target=""_blank"" rel=""noopener"">Kaip naudotis UniPark programėle</a></p>
+<em>Atvykus į įstaigą, padėsime Jums įdiegti programėlę ir apmokysime ja naudotis.</em>
+
+Ją atsisiųsti galite.
+
+<hr />
+
+
+
+<hr />
+
+<a href=""https://itunes.apple.com/us/app/unipark-app/id1195004063?ls=1&amp;mt=8""><img class=""alignnone size-medium wp-image-252"" src=""http://parkavimaskaune.lt/wp-content/uploads/2017/02/apple.png"" alt="""" width=""62"" height=""60"" /></a>  <a href=""https://play.google.com/store/apps/details?id=lt.itgirnos.uniparkparking.prod&amp;hl=en""><img class=""alignnone size-medium wp-image-255"" src=""http://parkavimaskaune.lt/wp-content/uploads/2017/02/gplay.png"" alt="""" width=""62"" height=""60"" /></a>
+
+<hr />
+
+&nbsp;
+
+<em>Paslaugos kainą sudaro:</em>
+
+<em>Paslaugos mokestis* + vietinė rinkliava už automobilio stovėjimą.</em>
+
+<em>*Paslaugos mokestį galite sužinoti iš UAB ""Stova"".</em>
+
+<span style=""color: #ff0000;"">VšĮ ""Automobilių stovėjimo aikštelės"" neatsako už programėlių netinkamą veikimą ar sutrikimus. </span>","Suveskite automobilio valstybinį numerį;",field_58a19dda6f15b,"Pasirinkite mokėjimo būdą;","Pradėkite stovėjimą slinkdami piktogramą į dešinę;","Sustabdykite stovėjimą slinkdami piktogramą į kairę."
+219,"Mokėjimas elektroninėmis parkavimo kortelėmis","Apmokėti galite automobilių stovėjimo mokėjimo automatuose.
+
+&nbsp;
+<h3><span style=""color: #ff0000;"">Šis rinkliavos mokėjimo būdas galioja iki 2017-12-31</span></h3>",,,,,
+220,"Mokėjimas vienkartiniais parkavimo bilietais","Mokant už ilgesnį stovėjimo laiką, visi stovėjimo bilietai žymimi vienodai, t.y. nutrinamas tas pats automobilio pastatymo laikas.
+
+Jei nutrinsite daugiau langelių ar suklysite žymėdami atvykimo datą ir laiką, automobilio stovėjimo bilietas negalios.","Atvykę į automobilio stovėjimo vietą, biliete nutrinkite langelius, žyminčius automobilio pastatymo vietą, datą ir laiką: metus, mėnesį, dieną, valandą ir minutes (penkių minučių tikslumu);",field_58a19dda6f15b,"Visi bilietai turi būti gerai matomi iš išorės, kitaip jie laikomi negaliojančiais,","Bilietas galioja tik toje (arba pigesnėje zonoje), kurioje buvo pažymėtas pastatymo laikas.",
+221,"Mokėjimas monetomis","Apmokėti galite automobilių stovėjimo mokėjimo automatuose.",,,,,
+222,"Mokėjimas SMS žinutėmis už faktiškai stovėtą laiką","<p style=""text-align: left;"">Užsakius ar nutraukus automobilio stovėjimo apmokėjimą, turite sulaukti patvirtinančio pranešimo.</p>
+<p style=""text-align: left;"">Jei išsiųstoje trumpojoje žinutėje netiksliai nurodytas transporto priemonės valstybinis numeris, laikytina, kad vietinė rinkliava už šią transporto priemonę nėra sumokėta.</p>
+&nbsp;
+
+<em>Trumposios žinutės kainą sudaro:</em>
+
+<em>Paslaugos mokestis* + vietinė rinkliava už automobilio stovėjimą.</em>
+
+<em>*Paslaugos mokestį galite sužinoti iš UAB ""Stova"".</em>
+
+&nbsp;","Numeriu<strong> 1332 </strong>neatsitraukę nuo transporto priemonės siųskite trumpąją žinutę su tekstu:
+
+<strong>U Start KG XXX000;</strong>
+
+<strong>U</strong>[tarpas]<strong>Start</strong>[tarpas]<strong>KG</strong>[tarpas]<strong>XXX000</strong>",field_58a19dda6f15b,"Norėdami sustabdyti stovėjimo apmokėjimą siųskite trumpąją žinutę su tekstu:
+<strong>U Stop XXX000.</strong>
+
+<strong>U</strong>[tarpas]<strong>Stop</strong>[tarpas]<strong>XXX000</strong>",,
+223,"Mokėjimas SMS žinutėmis","Užsakius ar nutraukus automobilio stovėjimo apmokėjimą, turite sulaukti patvirtinančio pranešimo.
+
+Jei išsiųstoje trumpojoje žinutėje netiksliai nurodytas transporto priemonės valstybinis numeris, laikytina, kad vietinė rinkliava už šią transporto priemonę nėra sumokėta.
+
+&nbsp;
+
+<em>Trumposios žinutės kainą sudaro:</em>
+
+<em>Paslaugos mokestis* + vietinė rinkliava už automobilio stovėjimą.</em>
+
+<em>*Paslaugos mokestį galite sužinoti iš savo mobiliojo ryšio operatoriaus.</em>
+
+&nbsp;
+
+Jeigu nenorite gauti priminimo apie besibaigiantį stovėjimo laiką SMS žinute, žinutės pabaigoje parašykite raides ""NP""
+
+Pvz.: <strong>PK 1 R ABC123 NP</strong>
+
+<strong>PK</strong>[tarpas]<strong>1</strong>[tarpas]<strong>R</strong>[tarpas]<strong>ABC123</strong>[tarpas]<strong>NP</strong>
+
+<strong> </strong>
+
+&nbsp;","Numeriu <strong>1332</strong> siųskite trumpąją žinutę su tekstu:
+<strong>PK L H XXX000 </strong>
+
+<strong>PK</strong>[tarpas]<strong>L</strong>[tarpas]<strong>H</strong>[tarpas]<strong>XXX000</strong>",field_58a19dda6f15b,"<strong>L</strong> - Stovėjimo trukmė valandomis ir minutėmis:
+0.15 - 15 min.; 0.3 – 30 min.;
+
+0.45 – 45 min.; 1 – 1 val.;
+
+1.15 – 1 val. 15 min. ir t.t.","<strong>H</strong> – stovėjimo zona:
+<strong>G</strong> - geltonoji zona.
+<strong>A</strong> - oranžinė zona,
+<strong>R</strong> - raudonoji zona,
+<strong>M</strong> - mėlynoji zona,
+<strong>Z</strong> - žalioji zona;","<strong>XXX000</strong> - transporto priemonės valstybinis numeris <strong><span style=""text-decoration: underline"">(numeris rašomas be tarpo)</span></strong>;"
+1431,"Payment by SMS","You must receive a confirmation message after booking or termination of payment for parking the car.
+
+If the transmitted short message does not accurately indicate the vehicle registration number, the local toll for this vehicle is deemed not to have been paid.
+","Send an instant message to  <strong>1332</strong> with the text::
+<strong>PK L H XXX000 </strong>",field_58a19dda6f15b,"<strong>L</strong> - Duration of stay in hours and minutes
+0.15 - 15 min.; 0.3 – 30 min.;
+
+0.45 – 45 min.; 1 – 1 val.;
+
+1.15 – 1 val. 15 min. ir t.t.","<strong>H</strong> – parking area:
+<strong>G</strong> - Yellow zone.
+<strong>A</strong> - Orange zone
+<strong>R</strong> - Red zone,
+<strong>M</strong> - Blue zone,
+<strong>Z</strong> - Green zone;","<strong>XXX000</strong> - vehicle registration number;s;"
+1433,"Payment by SMS for the time used","<p style=""text-align: left;"">You must receive a confirmation message after booking or termination of payment.</p>
+<p style=""text-align: left;"">If the transmitted short message does not accurately indicate the vehicle registration number, the local toll for this vehicle is deemed not to have been paid.</p>","Without leaving the automobile, send an instant message to<strong> 1332 </strong>with the text: <strong>U Start KG XXX000;</strong>",field_58a19dda6f15b,"To stop the time count for your parking, send an instant message with the text:
+<strong>U Stop XXX000.</strong>",,
+1434,"Payment by coins","You can pay in the car park meters.",,,,,
+1436,"Payment by one-time parking tickets","When paying for a longer parking time, all parking tickets are marked in the same way, i.e. The same amount of time is set for the car.
+
+If you delete more boxes or make a mistake when marking the date and time of arrival, the car parking ticket will not be valid.
+","When you arrive at the car park, delete the boxes marked with the location, date and time of the car: year, month, day, hour, and minutes (with an accuracy of five minutes);",field_58a19dda6f15b,"All tickets must be clearly visible from the outside, otherwise they will be considered invalid.","The ticket is valid only in the zone (or the cheaper zone) where the time of the booking was marked.",
+1437,"Payment by electronic parking cards","You can pay in the car park’s meters.
+
+&nbsp;
+<h3><span style=""color: #ff0000;"">This payment method is valid until 31st January 2017</span></h3>",,,,,
+1440,"Payment by smartphone with the “uniPark“ app","Download and install the free mobile app and follow the instructions.
+
+<p style=""text-align: left;""><a class=""button"" href=""https://www.youtube.com/watch?v=ZaIxLNKX11U"" target=""_blank"">How to use the UniPark app</a></p>
+
+<em>Upon arrival at our headquarters, we will help you install the gadget and train you to use it.</em>
+
+You can download it here.
+
+<hr />
+
+
+
+<hr />
+
+<a href=""https://itunes.apple.com/us/app/unipark-app/id1195004063?ls=1&amp;mt=8""><img class=""alignnone size-medium wp-image-252"" src=""http://parkavimaskaune.lt/wp-content/uploads/2017/02/apple.png"" alt="""" width=""62"" height=""60"" /></a>  <a href=""https://play.google.com/store/apps/details?id=lt.itgirnos.uniparkparking.prod&amp;hl=en""><img class=""alignnone size-medium wp-image-255"" src=""http://parkavimaskaune.lt/wp-content/uploads/2017/02/gplay.png"" alt="""" width=""62"" height=""60"" /></a>","Enter the vehicle number;
+
+
+",field_58a19dda6f15b,"Choose a payment method;","Start the parking by scrolling the icon to the right;","Stop parking by scrolling the icon to the left."
